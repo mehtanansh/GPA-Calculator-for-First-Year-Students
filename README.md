@@ -30,29 +30,29 @@ This program accepts the option (CGPI or SGPI or YPI) the user wants to calculat
 
 ![Flowchart of the System](/images/Flowchart_Overview.png)
 
-![Flowchart of the System](url)
+[Flowchart of the System](url)
 
 
 ![Flowchart Grading Criteria](/images/Flowchart_Criteria.png)
 
-![Flowchart Grading Criteria](url)
+[Flowchart Grading Criteria](url)
 
 
 ![Flowchart for Subjects](/images/Flowchart_AM.png)
 
-![Flowchart for Subjects](url)
+[Flowchart for Subjects](url)
 
 
 ![Flowchart for CGPI Calculations](/images/Flowchart_CGPI.png)
 
-![Flowchart for Calculation of CGPI](url)
+[Flowchart for Calculation of CGPI](url)
 
 
 ![Flowchart for YPI Calculations](/images/Flowchart_YPI.png)
 
-![Flowchart for Calculation of YPI](url)
+[Flowchart for Calculation of YPI](url)
 
 
 ![Flowchart for SGPI Calculations](/images/Flowchart_SGPI.png)
 
-![Flowchart for Calculation of SGPI](url)
+[Flowchart for Calculation of SGPI](url)
