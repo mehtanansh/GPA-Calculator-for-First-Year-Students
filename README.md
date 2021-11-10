@@ -28,3 +28,5 @@ This program accepts the option (CGPI or SGPI or YPI) the user wants to calculat
 *	What if the user wants to do some other calculations? Will he have to run the code again?
 *	What will the output be if wrong option is selected??
 
+![Flowchart of the System](/images/Flowchart_Overview.png)
+Format: ![Alt Text](url)
